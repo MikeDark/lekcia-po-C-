@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\код c#\пример1\bin\Debug\net6.0\пример1.exe
+C:\Users\User\Desktop\код c#\пример1\bin\Debug\net6.0\пример1.deps.json
+C:\Users\User\Desktop\код c#\пример1\bin\Debug\net6.0\пример1.runtimeconfig.json
+C:\Users\User\Desktop\код c#\пример1\bin\Debug\net6.0\пример1.dll
+C:\Users\User\Desktop\код c#\пример1\bin\Debug\net6.0\пример1.pdb
+C:\Users\User\Desktop\код c#\пример1\obj\Debug\net6.0\пример1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\код c#\пример1\obj\Debug\net6.0\пример1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\код c#\пример1\obj\Debug\net6.0\пример1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\код c#\пример1\obj\Debug\net6.0\пример1.AssemblyInfo.cs
+C:\Users\User\Desktop\код c#\пример1\obj\Debug\net6.0\пример1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\код c#\пример1\obj\Debug\net6.0\пример1.dll
+C:\Users\User\Desktop\код c#\пример1\obj\Debug\net6.0\refint\пример1.dll
+C:\Users\User\Desktop\код c#\пример1\obj\Debug\net6.0\пример1.pdb
+C:\Users\User\Desktop\код c#\пример1\obj\Debug\net6.0\пример1.genruntimeconfig.cache
+C:\Users\User\Desktop\код c#\пример1\obj\Debug\net6.0\ref\пример1.dll
